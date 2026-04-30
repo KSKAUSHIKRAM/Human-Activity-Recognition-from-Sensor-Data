@@ -13,7 +13,7 @@
 ## 🔹 Training and Validation Performance
 
 
-![Validation Accuracy](./images/validation_accuracy.png)
+![Validation Accuracy](validation_accuracy.png)
 
 ### 📈 Validation Accuracy Comparison
 
@@ -95,11 +95,11 @@
 
 ### 📊 Grad-CAM Overlay (Signal + Importance)
 
-![GradCAM Overlay](./images/gradcam_overlay.png)
+![GradCAM Overlay](gradcam_overlay.png)
 
 ### 🔥 Grad-CAM Heatmaps
 
-![GradCAM Heatmap](./images/gradcam_heatmap.png)
+![GradCAM Heatmap](gradcam_heatmap.png)
 
 ---
 
